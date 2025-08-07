@@ -1,0 +1,144 @@
+.sec-3 {
+    height: 120vh;
+}
+
+.cours h6 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+
+.cours {
+    margin-left: 145px;
+}
+
+.tex-bt {
+    display: flex;  
+    align-items: center;
+}
+
+.tex-bt h1 {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+    margin-right: 659px;
+}
+
+.tex-bt button {
+    width: 203px;
+    height: 52px;
+    border-radius: 4px;
+    border: none;
+    background-color: white;
+    border: 2px solid #F75E05;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #F75E05;
+}
+
+
+
+.container {
+    display: flex;
+    margin-left: 145px;
+    gap: 30px;
+}
+
+.card1 {
+    width: 600px;
+    height: 214px;
+    display: flex;
+    box-shadow: 0px 12px 20px -12px #1e212c67;
+    margin-top: 30px;
+}
+
+.card-in {
+    margin-left: 32px;
+}
+
+.card1 .bg-1 {
+    width: 80px;
+    height: 23px;
+    background-color: #03CEA4;
+    border-radius: 4px;
+    margin-top: 32px;
+}
+
+.card1 h3 {
+    font-weight: 400;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: white;
+    text-align: center;
+}
+
+.card1 h2 {
+    font-weight: 700;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 150%;
+    letter-spacing: 0%;
+    width: 322px;
+    height: 60px;
+    color: #1E212C;
+    margin-top: 20px;
+}
+
+.card1 h4 {
+    display: flex;
+    color:#FF4242;
+    font-weight: 700;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 150%;
+    letter-spacing: 0%;
+    margin-top: 20px;
+}
+
+.card1 h5 {
+    font-weight: 400;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #787A80;
+    margin-left: 4px;
+}
+
+.card1 .bg-2 {
+    width: 80px;
+    height: 23px;
+    background-color: #F89828;
+    border-radius: 4px;
+    margin-top: 32px;
+    width: 111px;
+}
+
+.card1 .bg-3 {
+    width: 80px;
+    height: 23px;
+    background-color: #5A87FC;
+    border-radius: 4px;
+    margin-top: 32px;
+    width: 98px;
+}
+
+.card1 .bg-4 {
+    width: 80px;
+    height: 23px;
+    background-color: #F52F6E;
+    border-radius: 4px;
+    margin-top: 32px;
+    width: 59px;
+}

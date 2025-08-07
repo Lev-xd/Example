@@ -1,0 +1,49 @@
+.sec9{
+    background: rgb(255, 210, 218);
+    height: 564px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 318px;
+    margin-top: 180px;
+}
+.Miss-h4{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.Subscribe-h1{
+    font-size: 46px;
+    font-weight: 900;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.Email-inp{
+    width: 422px;
+    height: 52px;
+    background: #ffffff;
+    color: #d4d5d8;
+    padding-left: 16px;
+    border: none;
+}
+.Sub-btn{
+    width: 154px;
+    height: 52px;
+    color: #fff;
+    background: linear-gradient(#FF3F3A, #F75E05);
+    border: none;
+    border-radius: 4px;
+}
+.Email-box{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.Sub-card{
+    width: 810px;
+    text-align: center;
+    margin-bottom: 400px;
+}

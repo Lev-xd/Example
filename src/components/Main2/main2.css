@@ -1,0 +1,66 @@
+.sec-2 {
+    height: 100vh;
+}
+
+.createx {
+    display: flex;
+    justify-content: center;
+    gap: 135px;
+    margin-top: 180px;
+}
+
+.createx h2 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+
+.createx h1 {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+    margin-bottom: 40px;    
+}
+
+.chekbox {
+    display: flex;
+    gap: 18px;
+    align-items: start;
+}
+
+.chekbox p {
+    font-weight: 400;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #424551;
+    width: 358px;
+    height: 52px;
+}
+
+.chekbox img {
+    margin-top: 8px;
+}
+
+.createx-box button {
+    width: 161px;
+    height: 44px;
+    border-radius: 4px;
+    border: none;
+    background: linear-gradient(#FF3F3A, #F75E05);
+    font-weight: 700;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    margin-top: 48px;
+}

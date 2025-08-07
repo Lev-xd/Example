@@ -1,0 +1,160 @@
+.bag {
+    height: 120vh;
+    background-color:  #fedecf;
+}
+
+.h2-bag {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #1E212C;
+    padding-top: 80px;
+}
+
+.h1-bag {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.baner {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    width: 1230px;
+    height: 126px;
+    background-color: white;
+    margin-left: 30px;
+    margin-bottom: 24px;
+}
+
+.box h2 {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 130%;
+    letter-spacing: 1px;
+    color: #FF3F3A;
+    margin-left: 40px;
+}   
+
+.box h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+
+.num {
+    margin-left: 20px;
+}
+
+.num-box {
+    display: flex;
+    align-items: center;
+
+}
+
+.box h4 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #787A80;
+}
+
+.box h5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #787A80;
+}
+
+
+.num2 {
+    margin-left: 40px;
+}
+
+.num2 h6 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    width: 757px;
+    height: 30px;
+}
+
+.num2 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #787A80;
+}
+
+.box button {
+    margin-left: 40px;
+    width: 136px;
+    height: 44px;
+    border: none;
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid #F75E05;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: #F75E05;
+}
+
+.box button:hover {
+    background: linear-gradient(#FF3F3A, #F75E05);
+    color: white;
+}
+
+.bx {
+    display: flex;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.bx h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #1E212C;
+}
+
+.bx button {
+    width: 215px;
+    height: 52px;
+    background: linear-gradient(#FF3F3A, #F75E05);
+    border: none;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 52px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}

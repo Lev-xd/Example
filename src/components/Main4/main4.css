@@ -1,0 +1,83 @@
+.sec-4 {
+    height: 100vh;
+}
+
+.h2 {
+    text-align: center;
+    margin-top: 180px;
+}
+
+.benefits h1 {
+    text-align: center;
+}
+
+
+.only-ban {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.only-ban button {
+    width: 307px;
+    height: 46px;
+    border-radius: 4px;
+    border: none;
+    border: 1px solid #FF3F3A;    
+    background-color: white;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #FF3F3A;
+}
+
+.only-box {
+    width: 307px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.only-box p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #9A9CA5;
+}
+
+
+.tutors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 135px;
+    margin-top: 60px;
+}
+
+.tutors-text h2 {
+    font-weight: 900;
+    font-size: 32px;
+    leading-trim: NONE;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+
+.tutors-text p {
+    font-weight: 400;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 160%;
+    letter-spacing: 0%;
+    width: 495px;
+    height: 130px;
+    color: #424551;
+}

@@ -1,0 +1,258 @@
+.about-box-1-h4{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.about-box-1-h4{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.about-box-1-h1{
+    font-size: 46px;
+    font-weight: 900;
+    font-family: sans-serif;
+    color: #1E212C;
+    margin-top: 8px;
+}
+.about-box-list{
+    text-align: center;
+    margin-top: 80px;
+}
+.btn-all{
+    width: 77px;
+    height: 46px;
+    background: none;
+    border-radius: 4px;
+    border: 1px solid #FF3F3A;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #FF3F3A;
+}
+.btn-other{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #9A9CA5;
+    border: none;
+    background: none;
+}
+.btn-ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.about-box-2{
+    display: flex;
+    align-items: center;
+}
+.about-box-2-inp{
+    width: 315px;
+    height: 44px;
+    background: none;
+    border: 1px solid #D7DADD;
+    padding-left: 16px;
+}
+.about-box-2-search-img{
+    transform: translateX(-30px);
+}
+.about-box-list-1{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.cours-card-list{
+    background: #fff;
+}
+
+.course-card {
+  width: 390px;
+  height: 438px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  background: white;
+}
+
+.course-content {
+  padding: 15px;
+}
+
+.course-category {
+  display: inline-block;
+  background-color: #e0f8f1;
+  color: #12b886;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 24px;
+}
+.course-category1 {
+  display: inline-block;
+  background-color: #5A87FC;
+  color: #fff;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 24px;
+}
+.course-category2 {
+  display: inline-block;
+  background-color: #F89828;
+  color: #fff;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 24px;
+}
+.course-category3 {
+  display: inline-block;
+  background-color: #F52F6E;
+  color: #fff;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 24px;
+}
+.course-category4 {
+  display: inline-block;
+  background-color: #7772F1;
+  color: #fff;
+  font-size: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 24px;
+}
+
+
+.course-title {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: sans-serif;
+  margin: 10px 0 8px;
+  color: #333;
+  width: 342px;
+  margin-top: 20px;
+}
+
+.course-info {
+  font-size: 14px;
+  color: #666;
+ font-weight: 700;
+ margin-top: 20px;
+}
+
+.course-price {
+  color: #ff4d4f;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.cours-card-list{
+    width: 1230px;
+    height: 1374px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 235px;
+    margin-top: 60px;
+}
+.about-box-5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 80px;
+}
+.about-box-5-h3{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #424551;
+}
+
+.TESTIMONIALS{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.What-say{
+    font-size: 46px;
+    font-weight: 900;
+    font-family: sans-serif;
+    color: #1E212C;
+    margin-top: 8px;
+}
+.TEST-list{
+    text-align: center;
+    margin-top: 180px;
+}
+.Arrow-Left-btn{
+    border: none;
+    background: none;
+}
+.Eleanors-desc{
+    width: 1020px;
+    height: 344px;
+    border-radius: 4px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.Eleanors-avatar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 24px;
+}
+.Eleanors-name{
+    font-size: 16px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #1E212C;
+}
+.Position{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #787A80;
+    margin-top: 4px;
+}
+.Zapataya{
+    transform: translateY(-100px);
+}
+.ArrowRight-btn{
+    background: #FF3F3A;
+    color: #fff;
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+    border: none;
+}
+.Card-eleanora{
+    display: flex;
+    align-items: center;
+    gap: 69px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.Eleanors-lorem{
+    width: 752px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.Scroll-img{
+    text-align: center;
+    margin-top: 60px;
+}

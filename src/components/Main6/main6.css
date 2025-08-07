@@ -1,0 +1,43 @@
+.obyava {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    gap: 135px;
+    padding-top: 120px;
+}
+
+.obyava-in h2 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1E212C;
+}
+
+.obyava-in h1 {
+    width: 392px;
+    height: 120px;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1E212C;
+}
+
+.obyava-in p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0%;
+    color: #1E212C;
+    width: 390px;
+    height: 52px;
+    margin-top: 48px;
+}
+
+.img-box {
+    display: flex;
+    gap: 40px;
+    margin-top: 32px;
+}
