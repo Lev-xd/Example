@@ -6,7 +6,7 @@ import YouTube from '../../../src/assets/YouTube.png';
 import Telegram from '../../../src/assets/telegram.png';
 import Instagram from '../../../src/assets/Instagram.png';
 import In from '../../../src/assets/In.png';
-import Iphone from '../../../src/assets/Iphone.png';
+import Iphone from '../../../src/assets/iPhone.png';
 import Mail from '../../../src/assets/Mail.png';
 import Heart from '../../../src/assets/Heart.png';
 
